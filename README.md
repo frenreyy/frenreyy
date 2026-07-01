@@ -1,4 +1,7 @@
 ![Feeetttman...](https://litter.catbox.moe/byz0mhpjshamald0.png)
-        <p align="center">THIS PAGE IS A WIP</p>
-        <span style="color: #FFA500;">This text is red</span>
+        <div align="center">
+  <h1>Sweetie, Sweetie, Marry us!/h1>
+  <p>HI! We love to see people checking out the github! More things maybe like an atabook and straw will come! </p>
+</div>
+
 
