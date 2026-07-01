@@ -4,4 +4,4 @@
   <p>Sweetie, Sweetie, Marry us!</p></div>      
  <p align="center">hi! we love to see people checking out the github! straw and possibly atabook is in the process of being made by us!</p>
 
-<img src="https://litter.catbox.moe/rhn9qww0lvm8tfbn.gif" width="300" height="300"> </div>
+<div><img src="https://litter.catbox.moe/rhn9qww0lvm8tfbn.gif" width="300" height="300"></div>
